@@ -57,10 +57,15 @@ If homography fails:
 ## Task 1 Output Structure:
 
 Task1/
+
 ├── task_1_code.py
+
 └── task_1_output/
+
 ├── XXXX_Z.JPG
+
 ├── XXXX_AT.JPG
+
 └── diagnostics.json
 
 
@@ -109,9 +114,13 @@ Automatically detects before–after pairs.
 
 
 Task2/
+
 ├── task_2_code.py
+
 └── task_2_output/
+
 ├── X.jpg
+
 └── X~3.jpg
 
 
