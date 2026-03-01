@@ -1,4 +1,4 @@
-# Computer Vision: RGB–Thermal Alignment & Change Detection
+# Computer Vision: RGB Thermal Alignment & Change Detection
 
 This repository contains two computer vision tasks focused on real-world image processing challenges:
 
@@ -11,7 +11,7 @@ Both tasks were implemented using Python and OpenCV with fully automated batch p
 
 # Project Overview:
 
-## Task 1- RGB–Thermal Image Alignment
+## Task 1- RGB Thermal Image Alignment
 
 ### Objective:
 Align thermal images with their corresponding RGB images and generate corrected thermal outputs while keeping the RGB image unchanged.
