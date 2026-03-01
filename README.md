@@ -73,7 +73,7 @@ Task1/
 
 # Task 2- Change Detection Algorithm:
 
-### 🎯 Objective
+### Objective
 Detect missing objects between two perfectly aligned images and highlight them in the "after" image.
 
 ### Input Naming Format:
@@ -128,7 +128,7 @@ Original `X~2.jpg` images are not included in the output.
 
 ---
 
-# 🛠️ Technologies Used:
+# Technologies Used:
 
 - Python 3
 - OpenCV
